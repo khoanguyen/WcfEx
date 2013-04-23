@@ -4,7 +4,7 @@ using System.Security.Authentication;
 using System.ServiceModel;
 using System.Web.Security;
 
-namespace WcfEx.Authentication
+namespace WcfExt.Authentication
 {
     /// <summary>
     /// Authorization Manager which provide custom Authentication

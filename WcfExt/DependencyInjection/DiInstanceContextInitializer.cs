@@ -3,7 +3,7 @@ using System.ServiceModel;
 using System.ServiceModel.Channels;
 using System.ServiceModel.Dispatcher;
 
-namespace WcfEx.DependencyInjection
+namespace WcfExt.DependencyInjection
 {
     /// <summary>
     /// DI InstanceContext initializer for calling the DependencyResolver

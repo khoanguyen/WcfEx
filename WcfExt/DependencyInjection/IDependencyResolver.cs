@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace WcfEx.DependencyInjection
+namespace WcfExt.DependencyInjection
 {
     /// <summary>
     /// Dependency Resolver solves dependencies when creating an object 

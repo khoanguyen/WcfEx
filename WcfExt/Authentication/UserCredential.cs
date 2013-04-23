@@ -1,4 +1,4 @@
-﻿namespace WcfEx.Authentication
+﻿namespace WcfExt.Authentication
 {
     /// <summary>
     /// User Credential data class

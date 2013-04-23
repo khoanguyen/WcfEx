@@ -4,7 +4,7 @@ using System.ServiceModel;
 using System.ServiceModel.Channels;
 using System.ServiceModel.Description;
 
-namespace WcfEx
+namespace WcfExt
 {
     /// <summary>
     /// Base class for Service behavior

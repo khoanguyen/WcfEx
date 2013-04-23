@@ -3,7 +3,7 @@ using System.Linq;
 using System.ServiceModel.Channels;
 using System.Text;
 
-namespace WcfEx.Authentication
+namespace WcfExt.Authentication
 {
     /// <summary>
     /// Client credential issuer for Basic Authentication. 

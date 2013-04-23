@@ -1,6 +1,6 @@
 ﻿using System.ServiceModel.Channels;
 
-namespace WcfEx.Authentication
+namespace WcfExt.Authentication
 {
     /// <summary>
     /// Credential Issuer provide client's Credential from incoming message

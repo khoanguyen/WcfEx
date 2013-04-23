@@ -1,7 +1,7 @@
 ﻿using System;
-using WcfEx.Authentication;
+using WcfExt.Authentication;
 
-namespace WcfEx.Behaviors
+namespace WcfExt.Behaviors
 {
     public class CustomServiceAuthenticationBehavior : ServiceBehaviorBase
     {

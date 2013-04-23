@@ -1,4 +1,4 @@
-﻿namespace WcfEx.DependencyInjection
+﻿namespace WcfExt.DependencyInjection
 {
     /// <summary>
     /// Factory for creating Dependency Resolver

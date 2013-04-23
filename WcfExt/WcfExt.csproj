@@ -7,8 +7,8 @@
     <ProjectGuid>{5508F1EB-C8F9-4F95-B737-6E7FF38E1570}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>WcfEx</RootNamespace>
-    <AssemblyName>WcfEx</AssemblyName>
+    <RootNamespace>WcfExt</RootNamespace>
+    <AssemblyName>WcfExt</AssemblyName>
     <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
   </PropertyGroup>

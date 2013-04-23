@@ -1,9 +1,9 @@
 ﻿using System;
 using System.Configuration;
 using System.ServiceModel.Configuration;
-using WcfEx.Behaviors;
+using WcfExt.Behaviors;
 
-namespace WcfEx.Configuration
+namespace WcfExt.Configuration
 {
     /// <summary>
     /// Extension Element for configuring WCF DI

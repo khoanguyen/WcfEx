@@ -3,9 +3,9 @@ using System.Linq;
 using System.ServiceModel;
 using System.ServiceModel.Description;
 using System.ServiceModel.Dispatcher;
-using WcfEx.DependencyInjection;
+using WcfExt.DependencyInjection;
 
-namespace WcfEx.Behaviors
+namespace WcfExt.Behaviors
 {
     public class DiServiceBehavior : ServiceBehaviorBase
     {
