@@ -46,8 +46,8 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Authentication\AuthenticationProvider.cs" />
-    <Compile Include="Authentication\BasicAuthCredentialIssuer.cs" />
-    <Compile Include="Authentication\BasicAuthorizationManager.cs" />
+    <Compile Include="Authentication\BasicWebHttpCredentialIssuer.cs" />
+    <Compile Include="Authentication\BasicWebHttpAuthorizationManager.cs" />
     <Compile Include="Authentication\CustomAuthorizationManager.cs" />
     <Compile Include="Authentication\IUserCredentialIssuer.cs" />
     <Compile Include="Authentication\UserCredential.cs" />

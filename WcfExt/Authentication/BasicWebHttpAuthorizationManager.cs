@@ -9,13 +9,13 @@ namespace WcfExt.Authentication
     /// <summary>
     /// Custom authorization manager which provide Basic Authentication
     /// </summary>
-    public class BasicAuthorizationManager : CustomAuthorizationManager
+    public class BasicWebHttpAuthorizationManager : CustomAuthorizationManager
     {
         public override Type UserCredentialIssuerType
         {
             get
             {
-                return typeof(BasicAuthCredentialIssuer);
+                return typeof(BasicWebHttpCredentialIssuer);
             }
             protected internal set
             {

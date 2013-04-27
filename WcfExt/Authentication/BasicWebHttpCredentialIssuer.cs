@@ -9,7 +9,7 @@ namespace WcfExt.Authentication
     /// Client credential issuer for Basic Authentication. 
     /// This issuer is used by BasicAuthorizationManager
     /// </summary>
-    public class BasicAuthCredentialIssuer : IUserCredentialIssuer
+    public class BasicWebHttpCredentialIssuer : IUserCredentialIssuer
     {
         private const string HttpRequestPropertyKey = "httpRequest";
         private const string AuthorizationHeader = "Authorization";
